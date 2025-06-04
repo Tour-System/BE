@@ -1,0 +1,15 @@
+# Gradle 빌드 결과물
+.gradle
+
+# IDE 설정 파일
+.idea/
+*.iml
+
+# OS / 편집기 캐시
+.DS_Store
+.vscode/
+*.swp
+
+# 로그 / 임시파일
+*.log
+*.tmp
